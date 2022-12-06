@@ -1,0 +1,75 @@
+.python_class {
+    display: flex;
+    width: 100%;
+    margin-top: 2.5rem;
+    justify-content: space-between;
+}
+
+.python_class > a {
+    width: 20%;
+}
+
+.python_class > a > img {
+    width: 13.8rem;
+}
+
+#second_python {
+    border: 1px solid rgb(228, 222, 222);
+}
+.python_class > a {
+    text-decoration: none;
+    color: black;
+}
+
+.python_class > a > h3 {
+    font-size: 0.98rem;
+    padding-top: 3px;
+}
+
+.python_class > a > h6 {
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 3px 0;
+    color: rgb(97, 96, 96);
+    width: 95%;
+}
+.checked {
+    color: #e49c1f;
+    width: 0.8rem;
+}
+
+.fa-star-half-stroke {
+    color: #e49c1f;
+}
+
+#n-style {
+    text-decoration-line: line-through;
+    text-decoration-style: double;
+}
+
+#star_end {
+    color: grey;
+    font-weight: 400;
+    padding-left: 3px;
+}
+
+#learn_python h5 {
+    color: #b46f22;
+    padding-bottom: 5px;
+}
+#strike_amount {
+    text-decoration-line: line-through;
+    padding-left: 3px;
+    font-weight: 400;
+    color: grey;
+}
+
+#b_seller {
+    margin: 0.5rem 0 0 0.1rem;
+    padding: 4px 8px;
+    width: 30%;
+    text-align: center;
+    font-weight: 700;
+    color: black;
+    background-color: #dfdf71;
+}

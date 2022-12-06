@@ -181,7 +181,7 @@
   #search-bar::-webkit-input-placeholder {
     transition: opacity 0.45s ease;
     opacity: 0;
-  } */
+  }*/
   #search-bar:focus {
     border: 1px solid #0202026e;
     transition: 0.35s ease;
